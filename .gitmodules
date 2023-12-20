@@ -1,0 +1,9 @@
+[submodule "MusicMarkupApp"]
+	path = MusicMarkupApp
+	url = https://github.com/Kravuar/MusicMarkupApp.git
+[submodule "DeepLMModel"]
+	path = DeepLMModel
+	url = https://github.com/Kravuar/DeepLMModel.git
+[submodule "DeepLMApp"]
+	path = DeepLMApp
+	url = https://github.com/Kravuar/DeepLMApp.git
