@@ -7,3 +7,6 @@
 [submodule "DeepLMApp"]
 	path = DeepLMApp
 	url = https://github.com/Kravuar/DeepLMApp.git
+[submodule "MusicMarkuppApp"]
+	path = MusicMarkuppApp
+	url = https://github.com/Kravuar/MusicMarkupApp.git
